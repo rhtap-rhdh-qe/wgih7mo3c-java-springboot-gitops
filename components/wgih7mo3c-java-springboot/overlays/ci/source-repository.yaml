@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wgih7mo3c-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/wgih7mo3c-java-springboot
